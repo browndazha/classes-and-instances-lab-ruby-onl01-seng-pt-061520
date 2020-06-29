@@ -4,7 +4,4 @@ end
 adele_goldberg = Dog.new
 
 
-snoopy = Dog.new
-
-
-lassie == Dog.new
+alan_kay = Dog.new
