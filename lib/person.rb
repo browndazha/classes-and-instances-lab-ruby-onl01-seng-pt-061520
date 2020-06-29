@@ -1,7 +1,7 @@
 class Person
 end
 
-fido = Dog.new
+adele_goldberg = Dog.new
 
 
 snoopy = Dog.new
